@@ -15,3 +15,4 @@ fn main() {
 // let mut x = 4;
 //println!("x is : {}", x)
 // rust will warn you as the variable was never changed throughout the code thus the mut statment is not needed
+
